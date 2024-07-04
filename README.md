@@ -8,17 +8,17 @@ This project is based on the software required for Agriculture Production Cooper
 
 This system can be used by a group of 2-10 farmers (members) and is run by an admin, the system takes inputs from the user and performs various tasks like,
 
-- maintaining an inventory of resources (recording counts, maintenance costs, 
+- Maintaining an inventory of resources (recording counts, maintenance costs, 
   servicing dates etc.),
-- comprehensive data of members' individual resource contributions,
-- updating information of crops to be produced,
-- creating subgroups of members, and allocating them the crop to be produced 
+- Comprehensive data of members' individual resource contributions,
+- Updating information of crops to be produced,
+- Creating subgroups of members, and allocating them the crop to be produced 
   (along with providing the resources required for production of the crop),
-- generating an yearly data of total crop yield (on monsoon, summer and winter 
+- Generating an yearly data of total crop yield (on monsoon, summer and winter 
   basis),
-- dividing the crop yields among members in ratio of their input (resource) 
+- Dividing the crop yields among members in ratio of their input (resource) 
   contribution (this part of the system needs more efficiency),
-- generating individual crop yield shares of the members.
+- Generating individual crop yield shares of the members.
 
 The main motive of this system is to provide a solution to reduce intensive farming over a small area of land and help farmers make more profit from existing resources.
 
