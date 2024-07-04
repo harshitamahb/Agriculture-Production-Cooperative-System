@@ -1,4 +1,3 @@
-
 # Agriculture-Production-Cooperative-System
 
 
@@ -22,4 +21,4 @@ This system can be used by a group of 2-10 farmers (members) and is run by an ad
 - generating individual crop yield shares of the members.
 
 The main motive of this system is to provide a solution to reduce intensive farming over a small area of land and help farmers make more profit from existing resources.
-# Agriculture-Production-Cooperative-System
+
